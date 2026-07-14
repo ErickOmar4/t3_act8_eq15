@@ -1,5 +1,6 @@
 # t3_act8_eq15
 
+![alt text](img/image.png)
 
 Consumo de APIs de Terceros - Login y Sistema con Tabla CRUD
 
@@ -65,4 +66,9 @@ si no, y hay una categoría seleccionada, se usa `/posts/tag/{tag}`; si no hay n
 usa `/posts` normal.** Todas soportan paginación real con `limit` y `skip`.
 
 ## Fase 4 (despliegue)
+
+link de mi pagina web
+http://168.231.69.225/t3_act8_eq15/
+
+![alt text](img/image2.png)
 
