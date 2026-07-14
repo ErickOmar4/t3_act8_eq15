@@ -1,0 +1,20 @@
+# dependencias
+node_modules/
+
+# build
+dist/
+dist-ssr/
+
+# entorno
+.env
+.env.local
+
+# editor / SO
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.log
+
+# vite
+*.local
