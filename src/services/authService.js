@@ -1,16 +1,11 @@
-// Servicio de autenticación.
-// Toda la comunicación con la API de login vive aquí, separada de los
-// componentes de UI (buenas prácticas: no hacer fetch dentro de los componentes).
 
 const AUTH_URL = 'https://dummyjson.com/auth/login'
 
 /**
- * Inicia sesión contra DummyJSON.
  * @param {string} username
  * @param {string} password
- * @returns {Promise<object>} datos del usuario autenticado (incluye "image")
- * @throws {Error} con un mensaje legible si las credenciales son incorrectas
- *                 o si ocurre un problema de red.
+ * @returns {Promise<object>} 
+ * @throws {Error} 
  */
 export async function loginRequest(username, password) {
   let response

@@ -11,7 +11,8 @@ Dashboard de noticias construido con **React + Vite + Tailwind CSS v4**.
 
 ## Integrante
 
-- Santiago Ramirez Erick Omar
+- Santiago Ramirez Erick Omar 
+equipo 15
 
 ## APIs utilizadas
 
